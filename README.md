@@ -1,3 +1,3 @@
 # ITSupportPorto
 
-Github ini berisi Portofolio sebagai IT Support
+Github ini berisi Portofolio IT Support
