@@ -1,4 +1,4 @@
-Mempercepat instalasi windows menggunakan SSD Eksternal
+# Mempercepat instalasi windows menggunakan SSD Eksternal
 
 Waktu: Berulang kali sejak 2020
 Tools: Rufus, WinPE (Windows Preinstallation Environment), SSD SATA Eksternal, USB SATA Converter
