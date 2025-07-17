@@ -13,3 +13,8 @@ Solusi:
 Kesimpulan:
 Wi-Fi di laptop klien tidak bisa digunakan dikarenakan Driver yang diperlukan belum diinstal. 
 Menginstal driver Wi-Fi mengatasi masalah.
+
+Kemungkinan lain dalam analisis:
+- Versi Windows yang salah yang menyebabkan Driver tidak bisa diinstal karena tidak mendukung versi windows tersebut
+- Modul Wi-Fi yang overheat atau longgar
+- Adanya Virus
