@@ -12,4 +12,4 @@ Deskripsi Pekerjaan:
 - Dari WinPE, saya jalankan setup.exe melalui CMD bawaan WinPE
 
 Waktu instalasi jauh lebih cepat karena kecepatan baca dan tulis SSD lebih tinggi dibanding flashdisk biasa.
-Mempermudah proses instalasi di laptop tanpa DVD atau flashdisk besar, bisa juga ditaruh berbagai isi iso dari berbagai versi windows.
+Mempermudah proses instalasi di laptop tanpa DVD atau flashdisk besar karena bisa juga ditaruh berbagai isi iso dari berbagai versi windows.
