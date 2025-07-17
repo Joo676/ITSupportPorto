@@ -5,6 +5,7 @@ Analisis:
 Mengecek konfigurasi IP, Gateway dan DNS di PC Klien. Beberapa kasus yang terjadi
 - IP Address konflik antar perangkat (Solusi : Mengganti IP Address perangkat ke IP address yang belum terisi oleh perangkat lain)
 - Tidak bisa terhubung ke internet yang ternyata pengaturan Gateway-nya salah (Solusi : Mengganti gateway ke IP Router)
+
 (Namun semua ini bisa langsung diatasi dengan mengatur ke DHCP jika router mendukung konfigurasi DHCP Server)
 
 Mengecek konfigurasi Router
