@@ -15,4 +15,4 @@ Deskripsi Pekerjaan:
 Waktu instalasi jauh lebih cepat karena kecepatan baca dan tulis SSD lebih tinggi dibanding flashdisk biasa.
 Mempermudah proses instalasi di laptop tanpa DVD atau flashdisk besar karena bisa juga ditaruh berbagai isi iso dari berbagai versi windows.
 
-** ⚠️ Ada beberapa kasus dimana saya tidak bisa menggunakan metode ini, kebanyakan adalah di instalasi Windows 11**
+**⚠️ Ada beberapa kasus dimana saya tidak bisa menggunakan metode ini, kebanyakan adalah di instalasi Windows 11**
