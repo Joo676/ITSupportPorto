@@ -7,6 +7,7 @@ Mengecek konfigurasi IP, Gateway dan DNS di PC Klien. Beberapa kasus yang terjad
 - Tidak bisa terhubung ke internet yang ternyata pengaturan Gateway-nya salah (Solusi : Mengganti gateway ke IP Router)
 
 (Namun semua ini bisa langsung diatasi dengan mengatur ke DHCP jika router mendukung konfigurasi DHCP Server)
+
 ---
 Mengecek konfigurasi Router
 - Pengaturan DHCP yang salah seperti pengaturan Pool IP Address dan subnet (netmask) yang salah
